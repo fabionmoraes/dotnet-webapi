@@ -15,3 +15,7 @@ dotnet ef database update
 ```sh
 dotnet run
 ```
+
+## Acesso ao Swagger
+
+http://localhost:5218/swagger/index.html
